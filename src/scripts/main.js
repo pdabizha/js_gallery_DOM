@@ -9,6 +9,6 @@ imgList.addEventListener('click', (ev) => {
     const largeImg = document.getElementById('largeImg');
 
     largeImg.src = link.href;
-    event.preventDefault();
+    ev.preventDefault();
   }
 });

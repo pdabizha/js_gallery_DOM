@@ -5,6 +5,7 @@
     - Run `npm run test:only -- -n` to run fast test ignoring linter;
     - Run `npm run test:only -- -l` to run fast test with additional info in console ignoring linter.
 
+
 ### Task: Create a gallery
 
 Create an image gallery where the main image changes by the click on a thumbnail.
